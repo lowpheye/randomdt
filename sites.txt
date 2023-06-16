@@ -1,2 +1,2 @@
-www.a.com
-www.b.com
+http://www.a.com/
+http://www.b.com/
